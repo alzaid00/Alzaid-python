@@ -1,3 +1,4 @@
+#16.	Write a Python script that prompts the user to enter their phone number and email ID. It then employs Regular Expressions to verify if these inputs adhere to standard phone number and email address formats 
 
 # Name: Alzaid khan DIV: E(ECS)
 # UIN: 241S009  Roll no. 09
